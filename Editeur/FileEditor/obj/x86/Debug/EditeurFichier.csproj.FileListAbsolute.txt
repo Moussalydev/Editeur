@@ -1,0 +1,71 @@
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+K:\Formation\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Asse\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Asse\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.exe
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.pdb
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\App.g.cs
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\ISDS\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.exe
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.pdb
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csprojResolveAssemblyReference.cache
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.baml
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.g.cs
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\App.g.cs
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.g.resources
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+Z:\Courses\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.exe
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.pdb
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csprojResolveAssemblyReference.cache
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.baml
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.g.cs
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\App.g.cs
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.g.resources
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+S:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.exe
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.pdb
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csprojResolveAssemblyReference.cache
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.baml
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\App.g.cs
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.g.resources
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+D:\Cours\C#\Esp_Séminaire\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csprojResolveAssemblyReference.cache
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\App.g.cs
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Users\ndiguesene\Desktop\Dev\DevC#\Souche 51\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.pdb

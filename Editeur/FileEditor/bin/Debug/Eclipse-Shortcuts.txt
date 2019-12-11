@@ -1,0 +1,15 @@
+Useful Eclipse shortcuts
+
+CTRL + 1 over a problem. It lists all the suggestions to fix the issue.
+CTRL + n: Opens the "Create new" window. From there, you can select what you want to create (class, interface, package, etc).
+CTRL + SHIFT + r: To open a resource, be it class, interface, file, anything inside the workspace.
+CTRL + 3: Open a text field where you can type any kind of command you want to execute, such as generate getters and setters, toString, hashCode/Equals, constructors, etc.
+CTRL + SHIFT + o: To organize imports of a class/interface.
+CTRL + SHIFT + f: To format the source code.
+CTRL + SPACE: Auto complete with suggestions.
+SHIFT + Alt + r: Rename a Java element (variable, name, ..).
+CTRL + Page Up/Page Down: Navigate through the open files/tabs.
+CTRL + w: Close current file/tab.
+CTRL + o: With the class open, will allow to type the name of the method you want to go to.
+
+ndigue
